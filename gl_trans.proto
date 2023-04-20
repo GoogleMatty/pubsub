@@ -1,0 +1,6 @@
+syntax = "proto3";
+message ProtocolBuffer {
+  string account_id = 1;
+  string transaction_type = 2;
+  float amount = 3;
+}

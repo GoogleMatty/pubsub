@@ -1,0 +1,13 @@
+{
+   "metadata":{
+      "version":"1"
+   },
+   "name": "pubsub repository",
+   "templates":[
+      {
+         "path":"/pubsub",
+         "name":"Pubsub",
+         "description":"The first sample of its name."
+      }
+   ]
+}
